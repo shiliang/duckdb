@@ -21,5 +21,3 @@ If the issue is determined to be an actual security issue, we will request a CVE
 ## Public Disclosure
 We would prefer to only disclose the issue once a DuckDB release is published with a fix. We generally publish a new DuckDB release every few weeks.
 Again, see the [release calendar](https://duckdb.org/release_calendar) for the planned release dates. 
-
-
